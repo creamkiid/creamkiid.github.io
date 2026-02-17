@@ -223,8 +223,6 @@ nav ul li a:hover::after {
     border-top-right-radius: 10px;
 }
 
-}
-
 .project-card-content {
     padding: 45px;
     flex-grow: 1;
